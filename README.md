@@ -50,6 +50,7 @@ An intelligent ticket management system that leverages AI to automatically analy
    ```bash
    cd ai-ticket-assistant && npm install
    cd ../ai-ticket-frontend && npm install
+<img width="1889" height="870" alt="Screenshot 2025-07-25 190731" src="https://github.com/user-attachments/assets/fbc5fa8f-2817-4b6a-ac87-254f897b830b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 181238" src="https://github.com/user-attachments/assets/a95d3385-7919-4d9d-96eb-d450945c5a66" />
 
-![Uploading Screenshot 2025-07-25 190731.png…]()
    
