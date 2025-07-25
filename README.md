@@ -28,19 +28,21 @@ An intelligent ticket management system that leverages AI to automatically analy
 3. The system automatically matches the ticket with qualified moderators based on their skills
 4. Assigned moderators receive email notifications via Mailtrap
 
-## 📝 API Endpoints
-**Authentication**
-POST /api/auth/signup - Register a new user
-POST /api/auth/login - Login and get JWT token
-Tickets
-POST /api/tickets - Create a new ticket
-GET /api/tickets - Get all tickets for logged-in user
-GET /api/tickets/:id - Get ticket details
-Admin
-GET /api/auth/users - Get all users (Admin only)
-POST /api/auth/update-user - Update user role & skills (Admin only) 
 
-   
+## 📝 API Endpoints
+
+### Authentication
+- `POST /api/auth/signup` - Register a new user
+- `POST /api/auth/login` - Login and get JWT token
+
+### Tickets
+- `POST /api/tickets` - Create a new ticket
+- `GET /api/tickets` - Get all tickets for logged-in user
+- `GET /api/tickets/:id` - Get ticket details
+
+### Admin
+- `GET /api/auth/users` - Get all users (Admin only)
+- `POST /api/auth/update-user` - Update user role & skills (Admin only)
 
 ## Getting Started
 1. Clone the repository
