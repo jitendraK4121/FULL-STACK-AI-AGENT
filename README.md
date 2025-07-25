@@ -28,7 +28,7 @@ An intelligent ticket management system that leverages AI to automatically analy
 3. The system automatically matches the ticket with qualified moderators based on their skills
 4. Assigned moderators receive email notifications via Mailtrap
 
-##📝 API Endpoints
+## 📝 API Endpoints
 **Authentication**
 POST /api/auth/signup - Register a new user
 POST /api/auth/login - Login and get JWT token
